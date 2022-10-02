@@ -71,3 +71,7 @@ int LocateElem(SqList L, int e) {
     }
     return -1;
 }
+
+int main(){
+    return 0;
+}
